@@ -1,2 +1,3 @@
 # jogo-sokoban
-jogo sokoban meu e do nobody
+
+Jogo sokoban, Duk and ndy.
